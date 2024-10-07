@@ -24,6 +24,11 @@
 				"id": "charmed-icons",
 				"label": "Charmed",
 				"path": "./themes/charmed-icon-theme.json"
+			},
+			{
+				"id": "charmed-icons-simple",
+				"label": "Charmed Simple",
+				"path": "./themes/charmed-icon-simple-theme.json"
 			}
 		]
 	},
